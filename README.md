@@ -6,4 +6,8 @@
 
 I'm very interested in the topic of web graphics, as i make main projects i sometimes tend to stray away and create sorta mini project to further expand upon the project i'm already working on.
 
+## 6 - 14 - 2024
+testing functions with threejs, lock in eye with camera.
+![eyes](https://github.com/nefariousjosiah/threejs-side-projects/assets/148295938/071fd303-1073-4f82-b6af-2ee70c1de0fe)
+
 
