@@ -3,187 +3,112 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 1682,
+      "count": 17358,
       "max": [
-        0.9919090270996094,
-        0.9919099807739258,
-        1.0269759893417358
+        0.668556272983551,
+        0.8799268007278442,
+        0.9919244050979614
       ],
       "min": [
-        -0.9919090270996094,
-        -0.9919090270996094,
-        -1.0063519477844238
+        -0.6679636240005493,
+        -0.9085731506347656,
+        -1.005160927772522
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 20184,
+      "byteOffset": 208296,
       "componentType": 5126,
-      "count": 1682,
+      "count": 17358,
       "max": [
-        1.0,
-        1.0,
-        1.0
+        0.9999207258224487,
+        0.9999319314956665,
+        0.9999056458473206
       ],
       "min": [
-        -1.0,
-        -1.0,
-        -1.0
+        -0.9999850988388062,
+        -0.9996305704116821,
+        -0.999985933303833
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 1682,
+      "count": 17358,
       "max": [
-        0.999812662601471,
-        0.41129201650619507,
-        0.999977707862854,
+        0.9999969601631165,
+        0.9999688267707825,
+        0.9999526143074036,
         1.0
       ],
       "min": [
-        -0.8348050713539124,
-        -0.788594126701355,
-        -0.9999774098396301,
-        1.0
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "componentType": 5126,
-      "count": 1682,
-      "max": [
-        0.9799360036849976,
-        0.9803320169448853
-      ],
-      "min": [
-        0.009668000042438507,
-        0.009668000042438507
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "componentType": 5125,
-      "count": 9840,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 40368,
-      "componentType": 5126,
-      "count": 2302,
-      "max": [
-        0.9847239851951599,
-        0.9847239851951599,
-        0.8935689926147461
-      ],
-      "min": [
-        -0.9847239851951599,
-        -0.9847239851951599,
-        -0.993569016456604
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 67992,
-      "componentType": 5126,
-      "count": 2302,
-      "max": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "min": [
-        -1.0,
-        -1.0,
+        -0.9999236464500427,
+        -0.9999648928642273,
+        -0.9999880194664001,
         -1.0
       ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 26912,
-      "componentType": 5126,
-      "count": 2302,
-      "max": [
-        1.0,
-        0.7885959148406982,
-        0.9998000264167786,
-        1.0
-      ],
-      "min": [
-        -0.09017335623502731,
-        -0.4584829807281494,
-        -0.9998072981834412,
-        1.0
-      ],
       "type": "VEC4"
     },
     {
       "bufferView": 1,
-      "byteOffset": 13456,
       "componentType": 5126,
-      "count": 2302,
+      "count": 17358,
       "max": [
-        0.9788119792938232,
-        0.9779750108718872
+        0.9974700212478638,
+        0.9892600178718567
       ],
       "min": [
-        0.009668000042438507,
-        0.009668000042438507
+        0.0019499999471008778,
+        0.0019499999471008778
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 39360,
       "componentType": 5125,
-      "count": 13380,
+      "count": 93048,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "kand8998 (https://sketchfab.com/KaitlynAndrus)",
+      "author": "martinjario (https://sketchfab.com/martinjario)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/eye-textured-ad4315627fb04ab3aa2a663973db9f89",
-      "title": "Eye (Textured)"
+      "source": "https://sketchfab.com/3d-models/skull-downloadable-1a9db900738d44298b0bc59f68123393",
+      "title": "Skull downloadable"
     },
-    "generator": "Sketchfab-12.68.0",
+    "generator": "Sketchfab-12.66.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 92880,
+      "byteLength": 372192,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 31872,
-      "byteOffset": 92880,
+      "byteLength": 138864,
+      "byteOffset": 372192,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 95616,
-      "byteOffset": 124752,
+      "byteLength": 416592,
+      "byteOffset": 511056,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 63744,
-      "byteOffset": 220368,
+      "byteLength": 277728,
+      "byteOffset": 927648,
       "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
@@ -191,101 +116,37 @@
   ],
   "buffers": [
     {
-      "byteLength": 284112,
+      "byteLength": 1205376,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Cornea_baseColor.png"
+      "uri": "textures/defaultMat_baseColor.jpeg"
     },
     {
-      "uri": "textures/Cornea_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Cornea_emissive.jpeg"
-    },
-    {
-      "uri": "textures/Cornea_normal.png"
-    },
-    {
-      "uri": "textures/Cleareye_baseColor.png"
-    },
-    {
-      "uri": "textures/Cleareye_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Cleareye_emissive.jpeg"
-    },
-    {
-      "uri": "textures/Cleareye_normal.png"
+      "uri": "textures/defaultMat_normal.jpeg"
     }
   ],
   "materials": [
     {
-      "alphaMode": "BLEND",
-      "doubleSided": true,
-      "emissiveFactor": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "emissiveTexture": {
-        "index": 2
-      },
-      "name": "Cornea",
+      "name": "defaultMat",
       "normalTexture": {
-        "index": 3
-      },
-      "occlusionTexture": {
-        "index": 1
+        "index": 1,
+        "scale": 0.85
       },
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicRoughnessTexture": {
-          "index": 1
-        }
-      }
-    },
-    {
-      "alphaMode": "BLEND",
-      "doubleSided": true,
-      "emissiveFactor": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "emissiveTexture": {
-        "index": 6
-      },
-      "name": "Cleareye",
-      "normalTexture": {
-        "index": 7
-      },
-      "occlusionTexture": {
-        "index": 5
-      },
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.5236340996460283,
-          0.5236340996460283,
-          0.5236340996460283,
-          1.0
-        ],
-        "baseColorTexture": {
-          "index": 4
-        },
-        "metallicRoughnessTexture": {
-          "index": 5
-        }
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
       }
     }
   ],
   "meshes": [
     {
-      "name": "defaultMaterial",
+      "name": "Object_0",
       "primitives": [
         {
           "attributes": {
@@ -295,22 +156,6 @@
             "TEXCOORD_0": 3
           },
           "indices": 4,
-          "material": 1,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "defaultMaterial",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
           "material": 0,
           "mode": 4
         }
@@ -344,48 +189,13 @@
     },
     {
       "children": [
-        2,
-        4
+        2
       ],
-      "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        -4.371139006309477e-08,
-        0.999999999999999,
-        0.0,
-        0.0,
-        -0.999999999999999,
-        -4.371139006309477e-08,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ],
-      "name": "Collada visual scene group"
-    },
-    {
-      "children": [
-        3
-      ],
-      "name": "OuterEye_low"
+      "name": "craneo.OBJ.cleaner.gles"
     },
     {
       "mesh": 0,
-      "name": "defaultMaterial"
-    },
-    {
-      "children": [
-        5
-      ],
-      "name": "CorneaPupil_low"
-    },
-    {
-      "mesh": 1,
-      "name": "defaultMaterial"
+      "name": "Object_2"
     }
   ],
   "samplers": [
@@ -413,30 +223,6 @@
     {
       "sampler": 0,
       "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
-    },
-    {
-      "sampler": 0,
-      "source": 3
-    },
-    {
-      "sampler": 0,
-      "source": 4
-    },
-    {
-      "sampler": 0,
-      "source": 5
-    },
-    {
-      "sampler": 0,
-      "source": 6
-    },
-    {
-      "sampler": 0,
-      "source": 7
     }
   ]
 }

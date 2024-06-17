@@ -58,18 +58,8 @@ renderer.setSize(sizes.width, sizes.height);
 
 //animations
 
-let eye;
-loader.load('./assets/scene.gltf', function (gltf) {
-  eye = gltf.scene;
-  scene.add(eye);
-  eye.scale.set (2, 2, 2);
-  function animate() {
-    requestAnimationFrame(animate);
-    eye.lookAt(camera.position);
-  }
-  renderer.render(scene, camera);
-  animate();
-});
+
+
 
 
 //clock
@@ -94,6 +84,24 @@ const tick = () =>
         window.requestAnimationFrame(tick)
     }
     tick()
+
+    let eye;
+loader.load('./assets/scene.gltf', function (gltf) {
+  eye = gltf.scene;
+  scene.add(eye);
+  eye.scale.set (3, 3, 3);
+  function animate() {
+    requestAnimationFrame(animate);
+    const elapsedTime1 = clock.getElapsedTime();
+    eye.position.x = Math.sin(elapsedTime1);
+    eye.position.y = Math.cos(elapsedTime1);
+    
+  }
+  renderer.render(scene, camera);
+  animate();
+});
+
+
     const controls = new OrbitControls(camera, renderer.domElement);
 
 
