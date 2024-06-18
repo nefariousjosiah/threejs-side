@@ -15,3 +15,7 @@ I'm very interested in the topic of web graphics, as i make main projects i some
 Updated eye model to a skull and added movement.
 
 
+https://github.com/nefariousjosiah/threejs-side/assets/148295938/9f12a502-eb0f-4fdb-91ec-3c68ef950a4d
+
+
+
